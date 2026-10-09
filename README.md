@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:081A2F,45:0B2540,100:00D4FF&text=ANURAG%20SINGH%20CHANDEL&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=ASPIRING%20PYTHON%20DEVELOPER%20%7C%20CSE%20GRADUATE%20%7C%20EXPLORING%20AI&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Anurag Singh Chandel profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:081A2F,45:0B2540,100:00D4FF&text=ANURAG%20SINGH%20CHANDEL&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20CSE%20GRADUATE%20%7C%20EXPLORING%20AI&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Anurag Singh Chandel profile banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Anurag;Aspiring+Python+Developer;Building+Projects+and+Learning+Every+Day;Exploring+Data,+SQL+and+AI;Turning+Ideas+into+Code" alt="Animated introduction" />
