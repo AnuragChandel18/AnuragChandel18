@@ -25,7 +25,7 @@
 - Exploring data analytics and AI concepts, including retrieval-based document Q&A
 - Looking for an entry-level role where I can learn fast and contribute
 
-**Target roles:** Python Developer · Data Analyst · AI/ML (fresher)
+**Target roles:** Python Developer ·Software Development · AI/ML (fresher)
 
 ---
 
