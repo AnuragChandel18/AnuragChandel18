@@ -134,7 +134,7 @@ A data warehouse built from CRM and ERP sales data, organized into Bronze, Silve
 
 <img src="https://streak-stats.demolab.com?user=AnuragChandel18&hide_border=true&theme=dark&background=0B2540&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragChandel18&bg_color=0B2540&color=E6F4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragChandel18&bg_color=081A2F&color=E6F4FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
